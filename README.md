@@ -1,3 +1,4 @@
+# 【授業課題用】
 # flutter_life_counter
 
 A new Flutter project.
